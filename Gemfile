@@ -60,4 +60,4 @@ group :development do
   gem "spring"
   gem 'spring-watcher-listen'
 end
-
+gem 'devise'
